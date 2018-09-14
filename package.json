@@ -1,0 +1,25 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maggiemccain/graphql-tutorial.git"
+  },
+  "author": "Maggie McCain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maggiemccain/graphql-tutorial/issues"
+  },
+  "homepage": "https://github.com/maggiemccain/graphql-tutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.2",
+    "relay-local-schema": "^0.7.0"
+  }
+}
